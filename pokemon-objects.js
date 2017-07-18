@@ -27,23 +27,28 @@ var pRoster =[
     gaetan
 ]
 
-// function pokemonRoster(){
-// console.log(pRoster[0])
-// console.log(pRoster[1])
-// console.log(pRoster[2])
-// console.log(pRoster[3])
-// console.log(pRoster[4])
-// console.log(pRoster[5])
-// console.log(pRoster[6])
-// }
+function pokemonRoster(){
+console.log(pRoster[0])
+console.log(pRoster[1])
+console.log(pRoster[2])
+console.log(pRoster[3])
+console.log(pRoster[4])
+console.log(pRoster[5])
+console.log(pRoster[6])
+}
 
-// pokemonRoster();
+pokemonRoster();
 
-console.log(charizard.hp)
-charizard.pokemonAttacked();
-console.log(charizard.hp)
-console.log(pikachu.hp)
-pikachu.pokemonAttacked();
-console.log(pikachu.hp)
+var pRoster = [charizard, pikachu, hitmonlee, giratina,squirtle, gaetan]
+function pokemonRoster 
+    for(var i=0; i > 6; i++) {
+    console.log(pokemonRoster(i))   
+    }
 
- 
+// console.log(charizard.hp)
+// charizard.pokemonAttacked();
+// console.log(charizard.hp)
+// console.log(pikachu.hp)
+// pikachu.pokemonAttacked();
+// console.log(pikachu.hp)
+
